@@ -1,0 +1,28 @@
+#home{
+    height:100vh;
+    background:linear-gradient(#c74cb2 50%,#00ffff 100%)    
+}
+#Del{
+    width:400px;
+    height:200px;
+    border-radius:50%
+}
+#Charlie{
+    margin-left: 10%;
+   padding-top: 20%;
+       text-align:center;
+}s
+#p1{
+    width:400px;
+    margin-left: 40%
+}
+#About{
+    height: 100vh;                                                                        
+    text-align: center;
+}
+.line{
+    height: 2px;
+    background-color: black;
+    width:30px;
+    margin-left: 50%
+}
